@@ -24,3 +24,5 @@ Random Number Generation (java.util.Random)
 User Input Handling (Scanner class)
 Loops & Conditional Statements (while, if-else)
 Score Tracking & Game Logic
+
+*OUTPUT*:
