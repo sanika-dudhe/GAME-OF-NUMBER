@@ -25,4 +25,4 @@ User Input Handling (Scanner class)
 Loops & Conditional Statements (while, if-else)
 Score Tracking & Game Logic
 
-*OUTPUT*:
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/1e4bc57f-03e3-4a97-91a4-f21f31ac918d)
